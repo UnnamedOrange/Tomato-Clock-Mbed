@@ -1,0 +1,16 @@
+## macOS
+.DS_Store
+
+## Windows
+desktop.ini
+
+## Mbed Studio
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+## Visual Studio Code
+.vscode/
